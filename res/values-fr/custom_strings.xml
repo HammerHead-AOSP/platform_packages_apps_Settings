@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"Débogage Android"</string>
+<string name="enable_adb_summary_custom">"Activer l'interface \"Android Debug Bridge\" (adb)"</string>
+<string name="adb_notify">"Notification ADB"</string>
+<string name="adb_notify_summary">"Afficher une notification lorsque l'USB ou le réseau de débogage est activé"</string>
+<string name="adb_over_network">"ADB par le réseau"</string>
+<string name="adb_over_network_summary">"Activer le débogage TCP/IP sur toutes les interfaces réseaux (réseaux USB, Wi\u2011Fi et Bluetooth). Ce paramètre est réinitialisé au redémarrage"</string>
+<string name="adb_over_network_warning">"AVERTISSEMENT : Lorsque ADB sur le réseau est activé, votre téléphone est ouvert aux intrusions depuis tous les réseaux connectés !
+
+N'utiliser cette fonctionnalité que lorsque vous êtes connecté à des réseaux de confiance.
+
+Voulez-vous vraiment activer cette fonction ?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"Version ROM"</string>
+<string name="rom_version_default">"Inconnu"</string>
+
+<!-- Build date -->
+<string name="build_date">"Date de compilation"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"Sons de réglage du volume"</string>
+</resources>

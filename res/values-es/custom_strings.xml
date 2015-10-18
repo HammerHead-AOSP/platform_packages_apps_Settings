@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"Depuración USB"</string>
+<string name="enable_adb_summary_custom">"Habilitar la interfaz de Android Debug Bridge (ADB)"</string>
+<string name="adb_notify">"Notificación de ADB"</string>
+<string name="adb_notify_summary">"Mostrar una notificación cuando se activa el USB o red de depuración"</string>
+<string name="adb_over_network">"ADB en red"</string>
+<string name="adb_over_network_summary">"Habilitar la depuración TCP / IP a través de interfaces de red (Wi-Fi, redes USB). Este ajuste se restablece al reiniciar"</string>
+<string name="adb_over_network_warning">"ADVERTENCIA: Cuando está habilitado el ADB en red, el teléfono está abierto para intrusiones en todas las redes conectadas!
+
+ Utilizar esta función únicamente cuando se conectan en redes de confianza.
+
+ ¿Realmente desea activar esta función?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"ROM versión"</string>
+<string name="rom_version_default">"Unknown"</string>
+
+<!-- Build date -->
+<string name="build_date">"Fecha de compilación"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"Sonidos de ajuste de volumen"</string>
+</resources>

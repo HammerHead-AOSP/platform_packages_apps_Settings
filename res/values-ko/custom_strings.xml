@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"안드로이드 디버깅"</string>
+<string name="enable_adb_summary_custom">"안드로이드 디버그 브릿지 (adb) 인터페이스 활성화"</string>
+<string name="adb_notify">"ADB 알림"</string>
+<string name="adb_notify_summary">"USB 또는 네트워크 디버깅이 활성화 될 때 알림을 표시"</string>
+<string name="adb_over_network">"무선 네트워크를 통한 ADB"</string>
+<string name="adb_over_network_summary">"네트워크 인터페이스(Wi\u2011Fi, USB 네트워크) 를 통한 TCP/IP 디버깅을 활성화합니다. 이 설정은 재시작하면 초기화됩니다."</string>
+<string name="adb_over_network_warning">"경고: 무선 네트워크를 통해 ADB가 활성화되었을 때, 당신의 전화는 연결된 네트워크의 침입에 열려있습니다!
+
+신뢰되는 네트워크에 연결되어있을 때만 사용하세요.
+
+정말로 이 기능을 활성화하시겠습니까?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"ROM 버전"</string>
+<string name="rom_version_default">"알 수 없는"</string>
+
+<!-- Build date -->
+<string name="build_date">"빌드 날짜"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"볼륨 조절 소리"</string>
+</resources>

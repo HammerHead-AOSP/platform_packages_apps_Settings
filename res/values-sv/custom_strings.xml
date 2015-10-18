@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"Android felsökning"</string>
+<string name="enable_adb_summary_custom">"Aktivera gränssnittet för Android Debug Bridge (adb)"</string>
+<string name="adb_notify">"ADB notifieringar"</string>
+<string name="adb_notify_summary">"Visa en avisering när USB- eller nätverksfelsökning är aktivt"</string>
+<string name="adb_over_network">"ADB över nätverk"</string>
+<string name="adb_over_network_summary">"Aktivera TCP/IP-felsökning över nätverksgränssnitt (Wi\u2011Fi, USB-nätverk). Denna inställning återställs vid omstart"</string>
+<string name="adb_over_network_warning">"VARNING: När ADB över nätverk är aktiverad, är din telefon öppen för intrång på alla anslutna nätverk!
+
+Använd endast denna funktion när du är ansluten till pålitliga nätverk.
+
+Vill du verkligen aktivera den här funktionen?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"ROM-version"</string>
+<string name="rom_version_default">"Okänd"</string>
+
+<!-- Build date -->
+<string name="build_date">"Byggdatum"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"Volume adjustment sounds"</string>
+</resources>

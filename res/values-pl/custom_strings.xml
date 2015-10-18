@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"Debugowanie USB"</string>
+<string name="enable_adb_summary_custom">"Włącz ADB"</string>
+<string name="adb_notify">"Powiadomienie ADB"</string>
+<string name="adb_notify_summary">"Pokazuj powiadomienie, kiedy debugowanie przez USB lub sieć jest włączone"</string>
+<string name="adb_over_network">"ADB przez sieć"</string>
+<string name="adb_over_network_summary">"Włącz debugowanie TCP/IP przez interfejs sieciowy (Wi-Fi, sieci USB). Ustawienie zostanie zresetowane po ponownym uruchomieniu"</string>
+<string name="adb_over_network_warning">"Ostrzeżenie: Gdy ADB przez sieć jest włączone, telefon jest podatny na włamania ze wszystkich połączonych sieci! 
+
+Korzystaj z tej funkcji tylko po połączeniu z zaufanymi sieciami.
+
+Na pewno chcesz to włączyć?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"Wersja ROM"</string>
+<string name="rom_version_default">"Nieznany"</string>
+
+<!-- Build date -->
+<string name="build_date">"Data kompilacji"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"Regulacja głośności dźwięku"</string>
+</resources>

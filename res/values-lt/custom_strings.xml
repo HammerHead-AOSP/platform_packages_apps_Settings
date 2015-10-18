@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"Android derinimas"</string>
+<string name="enable_adb_summary_custom">"Įgalinti Android Derinimo Tilto (adb) sąsają"</string>
+<string name="adb_notify">"ADB pranešimas"</string>
+<string name="adb_notify_summary">"Rodyti pranešimą, kai USB ar tinklo derinimas yra įgalintas"</string>
+<string name="adb_over_network">"ADB per tinklą"</string>
+<string name="adb_over_network_summary">"Įgalinti TCP/IP derinimą per tinklą (Wi\u2011Fi, USB tinklai). Šis nustatymas atsistato po paleidimo iš naujo"</string>
+<string name="adb_over_network_warning">"ĮSPĖJIMAS: Kai ADB per tinklą įgalintas, jūsų įrenginys tampa atviras įsibrovimams prie visų prisijungtų tinklų! 
+
+Naudokite šią funkciją tik tada, kai jūs esate prisijungę prie patikimų tinklų.
+
+Ar tikrai norite įgalinti šią funkciją?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"ROM versija"</string>
+<string name="rom_version_default">"nezināms"</string>
+
+<!-- Build date -->
+<string name="build_date">"Sukūrimo data"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"Garsumo reguliavimo garsai"</string>
+</resources>

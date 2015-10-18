@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"USB hata ayıklaması"</string>
+<string name="enable_adb_summary_custom">"Android Bağlantı kurma (adb) arabirimini etkinleştir"</string>
+<string name="adb_notify">"ADB bildirimi"</string>
+<string name="adb_notify_summary">"USB veya ağ üzerinden hata ayıklama etkin olduğunda bir bildirim görüntüle"</string>
+<string name="adb_over_network">"Ağ üzerinden ADB"</string>
+<string name="adb_over_network_summary">"Ağ arayüzleri (Wi\u2011Fi, USB ağları) üzerinde TCP/IP hata ayıklamayı etkinleştir. Bu ayar yeniden başlatılmada sıfırlanır"</string>
+<string name="adb_over_network_warning">"Uyarı: Ağ üzerinden ADB etkinken, telefonunuz tüm bağlantılı ağlar üzerinde yetkisiz erişimlere açıktır!
+
+Bu özelliği sadece güvenli ağlar üzerindeyken kullanın.
+
+Gerçekten bu işlevi kullanmak istiyor musunuz?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"ROM sürümü"</string>
+<string name="rom_version_default">"Bilinmeyen"</string>
+
+<!-- Build date -->
+<string name="build_date">"Oluşturulma tarihi"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"Sesleri ayarlama sesi"</string>
+</resources>

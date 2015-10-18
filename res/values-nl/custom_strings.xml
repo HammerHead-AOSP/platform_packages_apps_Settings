@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"Android foutopsporing"</string>
+<string name="enable_adb_summary_custom">"Android Debug Bridge (adb) interface inschakelen"</string>
+<string name="adb_notify">"ADB melding"</string>
+<string name="adb_notify_summary">"Een melding weergeven wanneer USB of netwerk foutopsporing is ingeschakeld"</string>
+<string name="adb_over_network">"ADB via netwerk"</string>
+<string name="adb_over_network_summary">"TCP/IP foutopsporing via netwerkinterfaces (wifi, USB-netwerken) inschakelen. Deze instelling wordt gereset bij herstart"</string>
+<string name="adb_over_network_warning">"Waarschuwing: Wanneer ADB via netwerk is ingeschakeld, staat je telefoon open voor indringers op alle verbonden netwerken!
+
+Gebruik deze functie alleen wanneer je verbonden bent met vertrouwde netwerken.
+
+Zeker weten deze functie inschakelen?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"ROM-versie"</string>
+<string name="rom_version_default">"Onbekend"</string>
+
+<!-- Build date -->
+<string name="build_date">"Build datum"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"Volume aanpassingsgeluiden"</string>
+</resources>

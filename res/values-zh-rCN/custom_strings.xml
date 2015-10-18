@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"Android 调试"</string>
+<string name="enable_adb_summary_custom">"启用 Android Debug Bridge (adb) 界面"</string>
+<string name="adb_notify">"ADB 通知"</string>
+<string name="adb_notify_summary">"USB 或网络调试启用时显示通知"</string>
+<string name="adb_over_network">"ADB 网络调试"</string>
+<string name="adb_over_network_summary">"启用 TCP/IP 网络调试界面 (Wi\u2011Fi, USB 网络). 该设置项会在重启后重置"</string>
+<string name="adb_over_network_warning">"警告: ADB 网络调试已启用, 您的手机可以接受来自所有已连接网络的入侵连接!
+
+仅在连接至受信任网络时启用此功能.
+
+您是否确认启用此功能?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"ROM版本"</string>
+<string name="rom_version_default">"未知"</string>
+
+<!-- Build date -->
+<string name="build_date">"编译日期"</string>
+<string name="build_date_default">"2014-01-01-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"音量调整提示音"</string>
+</resources>

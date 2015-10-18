@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!-- Development Settings 
+ ADB debugging notifications -->
+<string name="enable_adb_custom">"Отладка по USB"</string>
+<string name="enable_adb_summary_custom">"Включить отладку по USB"</string>
+<string name="adb_notify">"Уведомление об отладке"</string>
+<string name="adb_notify_summary">"Показывать уведомление, когда отладка по USB или сети включена"</string>
+<string name="adb_over_network">"Отладка по сети"</string>
+<string name="adb_over_network_summary">"Включить TCP/IP режим отладки через сетевые интерфейсы (Wi\u2011Fi и USB-сети). Этот параметр настройки сбрасывается при перезагрузке устройства"</string>
+<string name="adb_over_network_warning">"ПРЕДУПРЕЖДЕНИЕ: Когда режим отладки по сети включён, ваш телефон доступен для взлома во всех подключённых сетях.
+
+Используйте эту функцию только когда подключены в надежные сети.
+
+Вы действительно хотите включить эту функцию?"</string>
+
+<!-- Device Info Settings 
+ Rom version -->
+<string name="rom_version">"Версия ROM"</string>
+<string name="rom_version_default">"Неизвестно"</string>
+
+<!-- Build date -->
+<string name="build_date">"Дата сборки"</string>
+<string name="build_date_default">"01-01-2014-0000"</string>
+
+<!-- Sound & Notification Settings 
+ Volume settings - Volume adjustment sound -->
+<string name="volume_adjust_sounds_title">"Звук при регулировке громкости"</string>
+</resources>
